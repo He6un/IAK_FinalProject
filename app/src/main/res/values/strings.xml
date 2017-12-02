@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Phonetic Alphabet</string>
+    <string name="A"><b>A</b>lpha</string>
+    <string name="B"><b>B</b>ravo</string>
+    <string name="C"><b>C</b>harlie</string>
+    <string name="D"><b>D</b>elta</string>
+    <string name="E"><b>E</b>cho</string>
+    <string name="F"><b>F</b>oxtrot</string>
+    <string name="G"><b>G</b>olf</string>
+    <string name="H"><b>H</b>otel</string>
+    <string name="I"><b>I</b>ndia</string>
+    <string name="J"><b>J</b>uliet</string>
+    <string name="K"><b>K</b>ilo</string>
+    <string name="L"><b>L</b>ima</string>
+    <string name="M"><b>M</b>ike</string>
+    <string name="N"><b>N</b>ovember</string>
+    <string name="O"><b>O</b>scar</string>
+    <string name="P"><b>P</b>apa</string>
+    <string name="Q"><b>Q</b>uebec</string>
+    <string name="R"><b>R</b>omeo</string>
+    <string name="S"><b>S</b>ierra</string>
+    <string name="T"><b>T</b>ango</string>
+    <string name="U"><b>U</b>niform</string>
+    <string name="V"><b>V</b>ictor</string>
+    <string name="W"><b>W</b>hiskey</string>
+    <string name="X"><b>X</b>-ray</string>
+    <string name="Y"><b>Y</b>ankee</string>
+    <string name="Z"><b>Z</b>ulu</string>
+</resources>
